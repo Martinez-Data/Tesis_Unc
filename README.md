@@ -39,7 +39,7 @@ Evaluación out-of-sample sobre una ventana expansiva de 191 meses (~16 años de
 ![Nowcasting Results](assets/nowcasting_results.png)
 
 ### Selección Dinámica de Variables (Lasso Heatmap)
-![Evolución de Coeficientes](assets/lasso_coef_heatmap_top15)
+![Evolución de Coeficientes](assets/lasso_coef_heatmap_top15.png)
 
 ---
 
